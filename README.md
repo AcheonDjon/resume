@@ -40,7 +40,7 @@
 ### 7. **Extracurricular – TIE Pittsburgh Young Entrepreneurship**
 
 - **Project**: Developed an app concept for counting calories tailored to individuals with special dietary needs (e.g., kidney disease, diabetes). Presented an investor pitch and responded to questions from entrepreneurs.
-- **Slides**: [Presentation](https://github.com/AcheonDjon/AI-/)
+- **Slides**: [Presentation](https://docs.google.com/presentation/d/1JC1f1PMDqJrdf9EyuIru_blRLKcvo7BSgK0gLKzatos/edit?usp=sharing)
 
 ---
 
